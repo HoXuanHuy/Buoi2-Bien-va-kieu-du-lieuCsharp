@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231094CA-6CB7-43F2-8D8A-0679FBC63285}|Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien-va-kieu-du-lieucsharp\\buoi2-bien-kieudulieu\\buoi2-bien-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231094CA-6CB7-43F2-8D8A-0679FBC63285}|Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj|solutionrelative:buoi2-bien-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEB25DD-86A2-4675-B13B-A83727ADEE2C}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien-va-kieu-du-lieucsharp\\buoi2-bien-kieudulieu\\buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEB25DD-86A2-4675-B13B-A83727ADEE2C}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|solutionrelative:buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi2-KieuDuLieu\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
+              "RelativeToolTip": "Buoi2-KieuDuLieu\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:03:00.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi2-Bien-KieuDuLieu\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Program.cs",
+              "RelativeToolTip": "Buoi2-Bien-KieuDuLieu\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T13:59:44.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

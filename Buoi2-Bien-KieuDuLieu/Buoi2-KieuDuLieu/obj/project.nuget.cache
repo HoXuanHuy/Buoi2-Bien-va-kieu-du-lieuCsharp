@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5KcyT5BDDY=",
+  "success": true,
+  "projectFilePath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.11\\microsoft.dotnet.ilcompiler.9.0.11.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.11\\microsoft.net.illink.tasks.9.0.11.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
