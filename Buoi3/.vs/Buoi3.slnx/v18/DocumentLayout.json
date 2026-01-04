@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABD1275-283C-481F-A7A7-C03A48FBF609}|Buoi3_Bai4\\Buoi3_Bai4.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi3\\buoi3_bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABD1275-283C-481F-A7A7-C03A48FBF609}|Buoi3_Bai4\\Buoi3_Bai4.csproj|solutionrelative:buoi3_bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A426B6-A61C-4B35-AB47-B68509628AE7}|Buoi3_Bai3\\Buoi3_Bai3.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi3\\buoi3_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A426B6-A61C-4B35-AB47-B68509628AE7}|Buoi3_Bai3\\Buoi3_Bai3.csproj|solutionrelative:buoi3_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848E7935-1FA8-4878-8536-EF0CD9F63C3F}|Buoi3_Bai2\\Buoi3_Bai2.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi3\\buoi3_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848E7935-1FA8-4878-8536-EF0CD9F63C3F}|Buoi3_Bai2\\Buoi3_Bai2.csproj|solutionrelative:buoi3_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E262B54F-50C2-9BDF-22A2-72991626D5BC}|Buoi3\\Buoi3_Bai1.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi3\\buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E262B54F-50C2-9BDF-22A2-72991626D5BC}|Buoi3\\Buoi3_Bai1.csproj|solutionrelative:buoi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E262B54F-50C2-9BDF-22A2-72991626D5BC}|Buoi3\\Buoi3_Bai1.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi3\\buoi3\\buoi3_bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E262B54F-50C2-9BDF-22A2-72991626D5BC}|Buoi3\\Buoi3_Bai1.csproj|solutionrelative:buoi3\\buoi3_bai1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3_Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai4\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3_Bai4\\Program.cs",
+              "RelativeToolTip": "Buoi3_Bai4\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:25:52.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3_Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai3\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3_Bai3\\Program.cs",
+              "RelativeToolTip": "Buoi3_Bai3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:21:10.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buoi3_Bai1.csproj",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3\\Buoi3_Bai1.csproj",
+              "RelativeDocumentMoniker": "Buoi3\\Buoi3_Bai1.csproj",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3\\Buoi3_Bai1.csproj",
+              "RelativeToolTip": "Buoi3\\Buoi3_Bai1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-01T08:09:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3_Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi3_Bai2\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3_Bai2\\Program.cs",
+              "RelativeToolTip": "Buoi3_Bai2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:09:32.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi3\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi3\\Buoi3\\Program.cs",
+              "RelativeToolTip": "Buoi3\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:45:46.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

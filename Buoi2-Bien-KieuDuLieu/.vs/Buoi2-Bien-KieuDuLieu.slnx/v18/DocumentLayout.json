@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\",
+  "WorkspaceRootPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06028249-8B15-44CA-9C45-75A5D1F0FAC8}|BTVN_Buoi2\\BTVN_Buoi2.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien-va-kieu-du-lieucsharp\\buoi2-bien-kieudulieu\\btvn_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06028249-8B15-44CA-9C45-75A5D1F0FAC8}|BTVN_Buoi2\\BTVN_Buoi2.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi2-bien-kieudulieu\\btvn_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06028249-8B15-44CA-9C45-75A5D1F0FAC8}|BTVN_Buoi2\\BTVN_Buoi2.csproj|solutionrelative:btvn_buoi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40CD17E9-7D77-DA03-692A-2BCAD0067D7F}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien-va-kieu-du-lieucsharp\\buoi2-bien-kieudulieu\\buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40CD17E9-7D77-DA03-692A-2BCAD0067D7F}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi2-bien-kieudulieu\\buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40CD17E9-7D77-DA03-692A-2BCAD0067D7F}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|solutionrelative:buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{719702A1-39AD-B985-C0AE-71DF2AB7D101}|Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien-va-kieu-du-lieucsharp\\buoi2-bien-kieudulieu\\buoi2-bien-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{719702A1-39AD-B985-C0AE-71DF2AB7D101}|Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi2-bien-kieudulieu\\buoi2-bien-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{719702A1-39AD-B985-C0AE-71DF2AB7D101}|Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj|solutionrelative:buoi2-bien-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\Program.cs",
               "RelativeDocumentMoniker": "BTVN_Buoi2\\Program.cs",
-              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\Program.cs",
               "RelativeToolTip": "BTVN_Buoi2\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwCEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T10:33:54.89Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
               "RelativeDocumentMoniker": "Buoi2-KieuDuLieu\\Program.cs",
-              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
               "RelativeToolTip": "Buoi2-KieuDuLieu\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T14:03:00.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T14:03:00.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Program.cs",
               "RelativeDocumentMoniker": "Buoi2-Bien-KieuDuLieu\\Program.cs",
-              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Program.cs",
               "RelativeToolTip": "Buoi2-Bien-KieuDuLieu\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T13:59:44.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T13:59:44.467Z"
             }
           ]
         }

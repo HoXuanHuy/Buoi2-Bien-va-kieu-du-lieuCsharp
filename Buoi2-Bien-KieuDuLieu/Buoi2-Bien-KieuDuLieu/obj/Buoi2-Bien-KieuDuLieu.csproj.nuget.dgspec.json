@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj": {}
+    "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj": {}
   },
   "projects": {
-    "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj": {
+    "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj",
+        "projectUniqueName": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj",
         "projectName": "Buoi2-Bien-KieuDuLieu",
-        "projectPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj",
+        "projectPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\obj\\",
+        "outputPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\Buoi2-Bien-KieuDuLieu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\BTVN_Buoi2.csproj",
+      "projectUniqueName": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\BTVN_Buoi2.csproj",
       "projectName": "BTVN_Buoi2",
-      "projectPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\BTVN_Buoi2.csproj",
+      "projectPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\BTVN_Buoi2.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\Buoi2-Bien-va-kieu-du-lieuCsharp\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\obj\\",
+      "outputPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi2-Bien-KieuDuLieu\\BTVN_Buoi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
