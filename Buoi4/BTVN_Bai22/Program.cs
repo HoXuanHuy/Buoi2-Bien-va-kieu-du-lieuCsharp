@@ -7,7 +7,7 @@
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             uint n = 0;
             uint m = 1;
-            Console.Write("Nhập số nguyên dương:");
+            Console.Write("Nhập số nguyên không âm:");
             while (!uint.TryParse(Console.ReadLine(), out n) || n < 0)
             {
                 Console.WriteLine("Vui lòng nhập lại giá trị");
