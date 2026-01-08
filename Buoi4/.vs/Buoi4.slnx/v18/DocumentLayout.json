@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4BDFF-A81A-4872-A6C3-6EA094A9A12D}|BTVN_Bai20\\BTVN_Bai20.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\btvn_bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4BDFF-A81A-4872-A6C3-6EA094A9A12D}|BTVN_Bai20\\BTVN_Bai20.csproj|solutionrelative:btvn_bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618B7B5C-346D-4681-B7A9-36349A7B8AF6}|BTVN_Bai21\\BTVN_Bai21.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\btvn_bai21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618B7B5C-346D-4681-B7A9-36349A7B8AF6}|BTVN_Bai21\\BTVN_Bai21.csproj|solutionrelative:btvn_bai21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B32B72B-E182-42AB-9A69-73433B026BC0}|BTVN_Bai22\\BTVN_Bai22.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\btvn_bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B32B72B-E182-42AB-9A69-73433B026BC0}|BTVN_Bai22\\BTVN_Bai22.csproj|solutionrelative:btvn_bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86ACE8CE-76EC-4FE3-8C83-6A326107F7A1}|BTVN_Bai23\\BTVN_Bai23.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\btvn_bai23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ACE8CE-76EC-4FE3-8C83-6A326107F7A1}|BTVN_Bai23\\BTVN_Bai23.csproj|solutionrelative:btvn_bai23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A178D9D-4C55-5582-D2E2-DEC930AE3ED2}|Buoi4\\Buoi4.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\buoi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A178D9D-4C55-5582-D2E2-DEC930AE3ED2}|Buoi4\\Buoi4.csproj|solutionrelative:buoi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7441DEA2-55F3-4001-B9B0-00517444E250}|BTVN_Bai19\\BTVN_Bai19.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\btvn_bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7441DEA2-55F3-4001-B9B0-00517444E250}|BTVN_Bai19\\BTVN_Bai19.csproj|solutionrelative:btvn_bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBEB5C3-BA39-B252-F9C9-67C8D351D846}|bangcuuchuong\\bangcuuchuong.csproj|e:\\pc control\\code\\buoi2-bien-va-kieu-du-lieu\\csharp-basic\\buoi4\\bangcuuchuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABBEB5C3-BA39-B252-F9C9-67C8D351D846}|bangcuuchuong\\bangcuuchuong.csproj|solutionrelative:bangcuuchuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai23\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Bai23\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai23\\Program.cs",
+              "RelativeToolTip": "BTVN_Bai23\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:25:35.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai22\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Bai22\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai22\\Program.cs",
+              "RelativeToolTip": "BTVN_Bai22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:23:04.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai21\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Bai21\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai21\\Program.cs",
+              "RelativeToolTip": "BTVN_Bai21\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:10:54.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai20\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Bai20\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai20\\Program.cs",
+              "RelativeToolTip": "BTVN_Bai20\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:48:18.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai19\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN_Bai19\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\BTVN_Bai19\\Program.cs",
+              "RelativeToolTip": "BTVN_Bai19\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:34:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\bangcuuchuong\\Program.cs",
+              "RelativeDocumentMoniker": "bangcuuchuong\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\bangcuuchuong\\Program.cs",
+              "RelativeToolTip": "bangcuuchuong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:07:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\Buoi4\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4\\Program.cs",
+              "ToolTip": "E:\\PC Control\\code\\Buoi2-bien-va-kieu-du-lieu\\CSharp-Basic\\Buoi4\\Buoi4\\Program.cs",
+              "RelativeToolTip": "Buoi4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:02:04.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

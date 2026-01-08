@@ -1,0 +1,15 @@
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\bin\Debug\net9.0\BTVN_Bai21.exe
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\bin\Debug\net9.0\BTVN_Bai21.deps.json
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\bin\Debug\net9.0\BTVN_Bai21.runtimeconfig.json
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\bin\Debug\net9.0\BTVN_Bai21.dll
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\bin\Debug\net9.0\BTVN_Bai21.pdb
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.AssemblyInfoInputs.cache
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.AssemblyInfo.cs
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.csproj.CoreCompileInputs.cache
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.sourcelink.json
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.dll
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\refint\BTVN_Bai21.dll
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.pdb
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\BTVN_Bai21.genruntimeconfig.cache
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\BTVN_Bai21\obj\Debug\net9.0\ref\BTVN_Bai21.dll

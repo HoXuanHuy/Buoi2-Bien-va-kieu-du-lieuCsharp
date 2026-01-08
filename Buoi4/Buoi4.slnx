@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="bangcuuchuong/bangcuuchuong.csproj" />
+  <Project Path="BTVN_Bai19/BTVN_Bai19.csproj" Id="7441dea2-55f3-4001-b9b0-00517444e250" />
+  <Project Path="BTVN_Bai20/BTVN_Bai20.csproj" Id="dfd4bdff-a81a-4872-a6c3-6ea094a9a12d" />
+  <Project Path="BTVN_Bai21/BTVN_Bai21.csproj" Id="618b7b5c-346d-4681-b7a9-36349a7b8af6" />
+  <Project Path="BTVN_Bai22/BTVN_Bai22.csproj" Id="4b32b72b-e182-42ab-9a69-73433b026bc0" />
+  <Project Path="BTVN_Bai23/BTVN_Bai23.csproj" Id="86ace8ce-76ec-4fe3-8c83-6a326107f7a1" />
+  <Project Path="Buoi4/Buoi4.csproj" />
+</Solution>

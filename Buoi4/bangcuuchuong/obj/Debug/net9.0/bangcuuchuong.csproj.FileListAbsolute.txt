@@ -1,0 +1,15 @@
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\bin\Debug\net9.0\bangcuuchuong.exe
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\bin\Debug\net9.0\bangcuuchuong.deps.json
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\bin\Debug\net9.0\bangcuuchuong.runtimeconfig.json
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\bin\Debug\net9.0\bangcuuchuong.dll
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\bin\Debug\net9.0\bangcuuchuong.pdb
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.GeneratedMSBuildEditorConfig.editorconfig
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.AssemblyInfoInputs.cache
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.AssemblyInfo.cs
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.csproj.CoreCompileInputs.cache
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.sourcelink.json
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.dll
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\refint\bangcuuchuong.dll
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.pdb
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\bangcuuchuong.genruntimeconfig.cache
+E:\PC Control\code\Buoi2-bien-va-kieu-du-lieu\CSharp-Basic\Buoi4\bangcuuchuong\obj\Debug\net9.0\ref\bangcuuchuong.dll
